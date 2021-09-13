@@ -1,0 +1,70 @@
+{
+    "NA": {
+        "sentinels": 2,
+        "100-thieves": 120,
+        "envy": 427,
+        "cloud9-blue": 188,
+        "xset": 533,
+        "faze-clan": 337,
+        "tsm": 106,
+        "gen-g": 17,
+        "rise": 637,
+        "version1": 2815,
+        "nrg": 1034,
+        "t1": 14,
+        "soniqs": 2350,
+        "immortals": 103,
+        "luminosity": 642,
+        "ghost-gaming": 2291
+    },
+    "EMEA": {
+        "gambit-esports": 682,
+        "acend": 3531,
+        "team-liquid": 474,
+        "fnatic": 2593,
+        "g2-esports": 257,
+        "giants-gaming": 2304,
+        "supermassive-blaze": 4567,
+        "guild-esports": 1209,
+        "tenstar": 4663,
+        "forze": 108
+    },
+    "LATAM": {
+        "vivo-keyd": 4894,
+        "team-vikings": 420,
+        "kr-esports": 2355,
+        "havan-liberty": 581,
+        "infinity-esports": 363,
+        "furia": 2406,
+        "six-karma": 4094,
+        "australs": 719,
+        "sharks-esports": 3512,
+        "gamelanders-blue": 243
+    },
+    "KOREA": {
+        "vision-strikers": 198,
+        "nuturn": 2328,
+        "tnl-sports": 1970,
+        "f4q": 1670,
+        "damwon-gaming": 2542,
+        "world-game-star": 2554,
+        "gochugaru": 5355,
+        "unknown": 5342,
+        "noble-experience": 4026,
+        "alpha-six-gaming": 5346
+    },
+    "SEA": {
+        "bren-esports": 694,
+        "x10-esports": 2112,
+        "zeta-division": 5448,
+        "crazy-raccoon": 277,
+        "paper-rex": 624,
+        "global-esports": 918,
+        "alter-ego": 1110,
+        "velocity-gaming": 799,
+        "full-sense": 4050,
+        "alter-ego-celeste": 3412
+    }
+}
+
+

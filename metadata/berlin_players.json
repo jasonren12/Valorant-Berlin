@@ -1,0 +1,117 @@
+{
+    "Sentinels": [
+        ["TenZ", 67],
+        ["zombs", 68],
+        ["ShahZaM", 69],
+        ["SicK", 70],
+        ["dapr", 71]
+    ],
+    "100 Thieves": [
+        ["Hiko", 128],
+        ["Asuna", 129],
+        ["nitr0", 130],
+        ["Ethan", 126],
+        ["steel", 127]
+    ],
+    "Envy": [
+        ["yay", 131],
+        ["Marved", 132],
+        ["FNS", 133],
+        ["crashies", 134],
+        ["Victor", 135]
+    ],
+    "Acend": [
+        ["cNed", 10],
+        ["starxo", 11],
+        ["zeek", 12],
+        ["Kiles", 13],
+        ["BONECOLD", 14]
+    ],
+    "Gambit Esports": [
+        ["sheydos", 5],
+        ["nAts", 6],
+        ["Redgar", 7],
+        ["Chronicle", 8],
+        ["d3ffo", 9]
+    ],
+    "G2 Esports": [
+        ["Mixwell", 15],
+        ["keloqz", 16],
+        ["nukkye", 17],
+        ["koldamenta", 18],
+        ["AvovA", 19]
+
+    ],
+    "SuperMassive Blaze": [
+        ["russ", 0],
+        ["Izzy", 1],
+        ["Brave", 2],
+        ["Turko", 3],
+        ["pAura", 4]
+    ],
+    "Vision Strikers": [
+        ["Lakia", 72],
+        ["BuZz", 82],
+        ["k1Ng", 83],
+        ["Rb", 84],
+        ["stax", 85],
+        ["Other", 283]
+    ],
+    "F4Q": [
+        ["Bunny", 86],
+        ["Esperanza", 87],
+        ["fiveK", 88],
+        ["Efina", 89],
+        ["zunba", 90]
+    ],
+    "Bren Esports": [
+        ["BORKUM", 256],
+        ["dispenser", 252],
+        ["Witz", 253],
+        ["DubsteP", 254],
+        ["JessieVash", 255]
+    ],
+    "Paper Rex": [
+        ["shiba", 251],
+        ["f0rsakeN", 247],
+        ["d4v41", 248],
+        ["Benkai", 249],
+        ["mindfreak", 250]
+    ],
+    "Havan Liberty": [
+        ["liazzi", 212],
+        ["shion", 213],
+        ["pleets", 214],
+        ["Myssen", 215],
+        ["Other", 283]
+    ],
+    "Vivo Keyd": [
+        ["heat", 216],
+        ["murizzz", 217],
+        ["ntk", 218],
+        ["JhoW", 219],
+        ["v1xen", 220]
+    ],
+    "KRU Esports": [
+        ["NagZ", 59],
+        ["Klaus", 56],
+        ["Mazino", 57],
+        ["delz1k", 58],
+        ["Other", 283]
+    ],
+    "Crazy Raccoon": [
+        ["Munchkin", 112],
+        ["rion", 209],
+        ["neth", 211],
+        ["Medusa", 208],
+        ["Other", 283]
+    ],
+    "ZETA DIVISION": [
+        ["barce", 114],
+        ["takej", 115],
+        ["Reita", 116],
+        ["Laz", 117],
+        ["crow", 118],
+        ["Other", 283]
+    ]
+}
